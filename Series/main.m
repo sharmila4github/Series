@@ -27,6 +27,7 @@ int main(int argc, const char * argv[]) {
         NSLog(@"Sum=%d",sum);
         // insert code here...
         NSLog(@"Hello, World!");
+        NSLog(@"Series completed");
     }
     return 0;
 }
